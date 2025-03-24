@@ -34,3 +34,6 @@ class Program
 
     }
 }
+/*
+I exceeded requirements by adding the random scripture feature. Leverage storing scriptures in an array.
+*/
